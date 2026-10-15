@@ -504,7 +504,8 @@ namespace spookyhalloween
             }
             else
             {
-                Console.WriteLine("Invalid choice. Please try again.");
+                Console.WriteLine("Invalid choice!");
+                Console.WriteLine("Please enter a number from 1 to 4.");
             }
 
             Console.WriteLine();
