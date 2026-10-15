@@ -508,7 +508,7 @@ namespace spookyhalloween
             }
 
             Console.WriteLine();
-            Console.WriteLine("Press Enter to continue...");
+            Console.WriteLine("Press Enter to return to your adventure...");
             Console.ReadLine();
         }
 
