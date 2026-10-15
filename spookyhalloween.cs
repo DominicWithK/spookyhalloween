@@ -483,6 +483,7 @@ namespace spookyhalloween
             {
                 Console.WriteLine("You search the dusty counter.");
                 Console.WriteLine("You find an old rusty key!");
+                Console.WriteLine("The key feels strangely cold in your hand.");
             }
             else if (choice == "2")
             {
