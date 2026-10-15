@@ -476,7 +476,7 @@ namespace spookyhalloween
             Console.WriteLine("4. Leave the dairy");
             Console.Write("Enter your choice: ");
 
-            string choice = Console.ReadLine();
+            string choice = Console.ReadLine()?.Trim() ?? "";
 
             if (choice == "1")
             {
