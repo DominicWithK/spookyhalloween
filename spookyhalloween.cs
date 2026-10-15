@@ -466,6 +466,7 @@ namespace spookyhalloween
 
             Console.WriteLine("Welcome to the Abandoned Dairy!");
             Console.WriteLine("The dairy is dark, dusty and strangely quiet.");
+            Console.WriteLine("Moonlight slips through the dusty windows.");
             Console.WriteLine("You feel that something mysterious is nearby.");
             Console.WriteLine();
 
