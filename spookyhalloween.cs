@@ -489,6 +489,7 @@ namespace spookyhalloween
             {
                 Console.WriteLine("You look behind the dairy.");
                 Console.WriteLine("You hear a strange noise in the darkness.");
+                Console.WriteLine("You notice fresh footprints in the dirt.");
             }
             else if (choice == "3")
             {
