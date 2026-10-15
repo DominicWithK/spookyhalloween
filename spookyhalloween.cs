@@ -459,7 +459,7 @@ namespace spookyhalloween
 
 
 
-        //John
+        //// Displays the abandoned dairy and handles the player's choices.
         static void Dairy()
         {
             Console.Clear();
