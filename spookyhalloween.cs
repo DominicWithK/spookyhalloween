@@ -495,6 +495,7 @@ namespace spookyhalloween
             {
                 Console.WriteLine("You inspect the shelves.");
                 Console.WriteLine("You find an old note with a strange symbol.");
+                Console.WriteLine("The symbol looks like a warning.");
             }
             else if (choice == "4")
             {
